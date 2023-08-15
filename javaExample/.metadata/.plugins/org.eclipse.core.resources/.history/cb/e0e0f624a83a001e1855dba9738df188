@@ -1,0 +1,15 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Customer customer=new Customer();
+		Student student=new Student();
+		customer.Log();
+		student.Log();
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,68 @@
+class Animal{
+	private String name;
+
+	public Animal(String name) {
+		//super();
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	public void speak() {
+		System.out.println("Hayvan Konuşuyor");
+	}
+	
+}
+class Bird extends Animal{
+
+	public Bird(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void speak() {
+		System.out.println(getName()+"Ötüyor");
+		
+	}
+	
+	
+	class Dog extends Animal{
+
+		public Dog(String name) {
+			super(name);
+			// TODO Auto-generated constructor stub
+		}
+
+		@Override
+		public void speak() {
+			System.out.println(getName()+"Avlıyor");
+			
+		}
+	
+	
+}
+
+
+
+
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

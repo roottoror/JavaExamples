@@ -1,0 +1,8 @@
+package Paket1;
+
+public class Horse extends Animal {
+	
+	
+	
+
+}

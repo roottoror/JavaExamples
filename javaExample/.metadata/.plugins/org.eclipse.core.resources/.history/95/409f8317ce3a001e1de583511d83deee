@@ -1,0 +1,16 @@
+
+public class MongoDatabase extends AbstractDatabase {
+
+	@Override
+	void update() {
+		System.out.println("Mongo Güncelledi..");
+		
+	}
+
+	@Override
+	void get() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

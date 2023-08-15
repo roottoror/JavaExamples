@@ -1,0 +1,18 @@
+package Paket1;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import javax.swing.JFrame;
+
+public class Main {
+
+	public static void main(String[] args) {
+		JFrame jframe=new JFrame("Naber");
+		Scanner scanner=new Scanner(System.in);
+		ArrayList<String> arraylist=new ArrayList<String>();
+		
+
+	}
+
+}

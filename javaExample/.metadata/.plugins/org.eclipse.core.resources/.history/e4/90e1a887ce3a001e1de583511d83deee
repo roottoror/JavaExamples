@@ -1,0 +1,20 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		AbstractDatabase abstractDatabase1=new MysqlDatabase();
+		AbstractDatabase abstractDatabase2=new MysqlDatabase();
+		abstractDatabase1.add();
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

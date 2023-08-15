@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.ProtectionDomain"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="DatabaseManager"/>
+    <fullyQualifiedTypeName name="MongoDatabase"/>
+    <fullyQualifiedTypeName name="IDatabase"/>
+    <fullyQualifiedTypeName name="OracleDatabase"/>
+    <fullyQualifiedTypeName name="AbstractDatabase"/>
+    <fullyQualifiedTypeName name="MysqlDatabase"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="Paket2.Student"/>
+    <fullyQualifiedTypeName name="Paket2.Animal"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.Main"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+package Paket2;
+
+public class Animal {
+	protected String isim;
+
+}
